@@ -1,0 +1,108 @@
+mission,subsystem,component,class,note
+SC1,X Band,,Communications,
+SC1,S Band,,Communications,
+SC1,DMS,,Data handling,
+SC1,Power,,Power,
+SC1,AOCS,,AOCS,
+SC1,RCS,,Propulsion,
+SC1,Positioning Instrument,,Payload,instrument
+SC1,Payload Instrument,,Payload,instrument
+SC2,TTC,,Communications,
+SC2,AOCS,,AOCS,
+SC2,CDMS,,Data handling,
+SC2,Power,,Power,
+SC2,MSVM,,Propulsion,mostly micro-propulsion units
+SC2,MSVM,SVM Harness,,harness: no functional class
+SC2,MSVM,PLM Harness,,harness: no functional class
+SC2,PLM,,Payload,instrument
+SC3,DMS & AOCMS,,Data handling,mixed subsystem: default data handling
+SC3,DMS & AOCMS,IMU Acceleros,AOCS,
+SC3,DMS & AOCMS,IMU Gyros,AOCS,
+SC3,DMS & AOCMS,IMU Gyros/Acceleros Processing & Supply,AOCS,
+SC3,DMS & AOCMS,RWA,AOCS,
+SC3,DMS & AOCMS,STR,AOCS,
+SC3,DMS & AOCMS,SAS SPS,AOCS,
+SC3,DMS & AOCMS,PDU Assembly,Power,
+SC3,DMS & AOCMS,PDU FCL,Power,
+SC3,DMS & AOCMS,PDU LCL,Power,
+SC3,Coms,,Communications,
+SC3,Combined Propulsion Subsystem,,Propulsion,
+SC3,Power,,Power,
+SC4,Payload Instrument,,Payload,instrument
+SC4,Paylaod Data Handling and Transmission (PDHT),,Data handling,mixed subsystem: default data handling
+SC4,Paylaod Data Handling and Transmission (PDHT),8PSK Modulator,Communications,
+SC4,Paylaod Data Handling and Transmission (PDHT),Output Stage,Communications,
+SC4,Paylaod Data Handling and Transmission (PDHT),Input Stage,Communications,
+SC4,Paylaod Data Handling and Transmission (PDHT),EPC LV,Communications,
+SC4,Paylaod Data Handling and Transmission (PDHT),EPC HV & TWT,Communications,
+SC4,Paylaod Data Handling and Transmission (PDHT),WG Switch,Communications,
+SC4,Paylaod Data Handling and Transmission (PDHT),OMUX,Communications,
+SC4,Paylaod Data Handling and Transmission (PDHT),X-Band Antenna,Communications,
+SC4,OBC,,Data handling,
+SC4,RIU Remote Interface Unit,,Data handling,
+SC4,EPS Electrical Power Sub-System,,Power,
+SC4,AOCS,,AOCS,mixed subsystem: default AOCS
+SC4,AOCS,Thruster,Propulsion,
+SC4,AOCS,Propulsion Function,Propulsion,
+SC4,AOCS,Pressure Transducer,Propulsion,
+SC4,AOCS,Pressure Transducer Supply,Propulsion,
+SC4,AOCS,Fill & Drain Valve,Propulsion,
+SC4,AOCS,Tank/Pipe external leak / burst,Propulsion,
+SC4,AOCS,Latch Valve,Propulsion,
+SC4,AOCS,Latch Valve Driver,Propulsion,
+SC4,AOCS,Propellant Filter,Propulsion,
+SC4,TT&C,,Communications,
+SC5,Payload Instrument,,Payload,instrument
+SC5,Paylaod Data Handling and Transmission (PDHT),,Data handling,mixed subsystem: default data handling
+SC5,Paylaod Data Handling and Transmission (PDHT),8PSK Modulator,Communications,
+SC5,Paylaod Data Handling and Transmission (PDHT),Output Stage,Communications,
+SC5,Paylaod Data Handling and Transmission (PDHT),Input Stage,Communications,
+SC5,Paylaod Data Handling and Transmission (PDHT),EPC LV,Communications,
+SC5,Paylaod Data Handling and Transmission (PDHT),EPC HV & TWT,Communications,
+SC5,Paylaod Data Handling and Transmission (PDHT),WG Switch,Communications,
+SC5,Paylaod Data Handling and Transmission (PDHT),OMUX,Communications,
+SC5,Paylaod Data Handling and Transmission (PDHT),X-Band Antenna,Communications,
+SC5,OBC,,Data handling,
+SC5,RIU Remote Interface Unit,,Data handling,
+SC5,EPS Electrical Power Sub-System,,Power,
+SC5,AOCS,,AOCS,mixed subsystem: default AOCS
+SC5,AOCS,Thruster,Propulsion,
+SC5,AOCS,Propulsion Function,Propulsion,
+SC5,AOCS,Pressure Transducer,Propulsion,
+SC5,AOCS,Pressure Transducer Supply,Propulsion,
+SC5,AOCS,Fill & Drain Valve,Propulsion,
+SC5,AOCS,Tank/Pipe external leak / burst,Propulsion,
+SC5,AOCS,Latch Valve,Propulsion,
+SC5,AOCS,Latch Valve Driver,Propulsion,
+SC5,AOCS,Propellant Filter,Propulsion,
+SC5,TT&C,,Communications,
+SC6,S-Band TT&C,,Communications,
+SC6,Chemical Propulsion System,,Propulsion,
+SC6,EPS,,Power,
+SC6,AOCS,,AOCS,
+SC6,Data Handling,,Data handling,
+SC6,Thermal Control Function,,Thermal,
+SC6,RECI Borads,,Data handling,memory and FPGA boards
+SC6,X-Band,,Communications,
+SC6,X-Band,PDHU,Data handling,
+SC6,Payload,,Payload,instrument
+SC7,GPS,,AOCS,navigation receiver
+SC7,VFM,,Payload,instrument
+SC7,Star Tracker,,AOCS,
+SC7,Canadian Electrical Field Instrument (CEFI),,Payload,instrument
+SC7,Accelerometer,,Payload,instrument
+SC7,S-Band Sub-System (RFEA),,Communications,
+SC7,AOCS,,AOCS,
+SC7,Cold Gas Propulsion System,,Propulsion,
+SC7,EPS and Boom,,Power,mixed subsystem: default power
+SC7,EPS and Boom,Hinge,,boom mechanism: no functional class
+SC7,OBC,,Data handling,
+SC8,AOCS,,AOCS,
+SC8,Propulsion,,Propulsion,
+SC8,Thermal Control,,Thermal,
+SC8,EPS,,Power,
+SC8,Data Handling,,Data handling,
+SC8,X-Band,,Communications,
+SC8,TT&C S-Band,,Communications,
+SC8,ICS,,,fluidic system whose function the record does not state
+SC8,Payload Instrument,,Payload,instrument
